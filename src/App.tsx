@@ -1,4 +1,4 @@
-import React from 'react';
+//import React from 'react';
 import { motion, useScroll, useSpring } from 'framer-motion';
 import CustomCursor from './components/ui/CustomCursor';
 import BackgroundParticles from './components/ui/BackgroundParticles';
